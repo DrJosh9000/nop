@@ -1,3 +1,3 @@
-# Yes
+# nop
 
-Less "Empty" repository.
+A basically empty repository.
